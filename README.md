@@ -10,7 +10,7 @@
 
 - 📝 I regularly write **Blogs** on [https://hashnode.com/@kushvaha687](https://hashnode.com/@kushvaha687)
 
-- 🎤 Ask me about **tech related stuff .**
+- 🎤 Ask me about **Tech related stuff .**
 
 - 💌 Reach me by e-mail **aprilsamy1@gmail.com**
 
