@@ -8,7 +8,7 @@
 
 - 💻 I’m currently learning **ReactJS and NodeJS**
 
-- 📝 I regularly write **Blogs** on [https://hashnode.com/@kushvaha687](https://hashnode.com/@kushvaha687)
+- 📝 I regularly write **Blogs** on **[https://hashnode.com/@kushvaha687](https://hashnode.com/@kushvaha687)**
 
 - 🎤 Ask me about **Tech related stuff .**
 
