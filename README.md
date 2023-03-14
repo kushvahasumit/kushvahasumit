@@ -12,7 +12,7 @@
 
 - 🎤 Ask me about **Tech related stuff .**
 
-- 💌 Reach me by e-mail **aprilsamy1@gmail.com**
+- 💌 Reach me by **e-mail** - **aprilsamy1@gmail.com**
 
 - ⚡ Fun fact **a dev's life is in his coffee**
 
