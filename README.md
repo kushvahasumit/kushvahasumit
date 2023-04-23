@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvahasumit&label=Profile%20views&color=0e75b6&style=flat" alt="kushvahasumit" /> </p>
 
-- 💻 I’m currently learning **ReactJS and NodeJS**
+- 💻 I’m currently learning **ReactJS **
 
 - 📝 I write **Blogs** on **[https://hashnode.com/@kushvaha687](https://hashnode.com/@kushvaha687)**
 
