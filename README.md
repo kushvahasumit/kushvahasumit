@@ -26,21 +26,15 @@
 
 <!-- Add more social media badges as needed -->
 
-## 📦 Languages Used & Contribution Summary
+<!-- ## 📦 Languages Used & Contribution Summary
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushvahasumit&show_icons=true&locale=en&layout=compact" alt="kushvahasumit" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushvahasumit&show_icons=true&locale=en&layout=compact" alt="kushvahasumit" /></p> -->
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kushvahasumit&show_icons=true&locale=en" alt="kushvahasumit" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kushvahasumit&show_icons=true&locale=en" alt="kushvahasumit" /></p> -->
 
-&nbsp;
+<!-- &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<h3 align="left"></h3>
+<!-- <h3 align="left"></h3> -->
 
 ## 🚀 Github Stats
 
