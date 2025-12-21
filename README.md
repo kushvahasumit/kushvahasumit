@@ -1,12 +1,14 @@
 
-<h1 align="center">Hey 👋, I'm sumit kushwaha</h1>
+<h1 align="center">Hey 👋, I'm Sumit Kushwaha</h1>
 
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvahasumit&label=Profile%20views&color=0e75b6&style=flat" alt="kushvahasumit" /> </p>
 
-- 💻 Exploring DevOps-driven testing: **CI/CD, Docker, Automation**
+- 💻 Exploring DevOps-driven testing
+  
+   **CI/CD, Docker, Automation**
 
 - 📝 I create tech-content on **[Youtube](https://youtube.com/@coderedbysumit?si=aHkwAskoE0m6Ie_V)**
 
@@ -14,7 +16,7 @@
 
 - 💌 Reach me by **e-mail  sumitt.ewp@gmail.com**
 
-- ⚡ Fun fact **My keyboard knows all my secrets**
+
 
 ## 😎 Connect with me :
 
